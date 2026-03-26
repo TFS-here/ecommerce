@@ -25,8 +25,8 @@ const Footer = () => {
                 <div>
                     <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
                     <ul className='flex flex-col gap-1 text-gray-600'>
-                        <li>+88 01886483771</li>
-                        <li>veoon.fashion1100@gmail.com</li>
+                        <li>+88 01711111111</li>
+                        <li>veoon.com</li>
 
                     </ul>
                 </div>
@@ -40,7 +40,7 @@ const Footer = () => {
             <div className=' flex justify-around items-center'>
                 <hr />
                 <p className='py-5 text-sm '>Copyright 2024@ shop.com - All Right Reserved.</p>
-                <p className='py-5 text-sm'>Developed by <Link to={'https://www.linkedin.com/in/md-tasnim-ferdous-972429240/'}>MD.TASNIM FERDOUS</Link> </p>
+                <p className='py-5 text-sm'>Developed by <Link to={'https://tasnimferdous.vercel.app'}>MD.TASlNIM FERDOUS</Link> </p>
             </div>
         </div>
     )
